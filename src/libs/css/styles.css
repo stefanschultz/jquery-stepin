@@ -1,0 +1,31 @@
+.myclass1 {
+  color: rgb(0, 57, 128);
+}
+
+.myclass2 {
+  color: cadetblue;
+}
+
+.myclass3 {
+    color: blueviolet;
+}
+
+#myinput {
+    color: blue;
+}
+
+#myinput2 {
+    color: salmon;
+}
+
+.myclass-delete {
+    color: red;
+}
+
+.mybg1 {
+    background-color: rgb(0, 57, 128);
+}
+
+.mybg2 {
+    background-color: cadetblue;
+}
